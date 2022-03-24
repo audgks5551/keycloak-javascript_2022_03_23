@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import UserService from "./service/UserService";
-import HttpService from "./service/HttpService";
+import UserService from "./services/UserService";
+import HttpService from "./services/HttpService";
 
 const renderApp = () => ReactDOM.render(
   <React.StrictMode>

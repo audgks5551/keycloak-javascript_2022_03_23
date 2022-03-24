@@ -1,0 +1,8 @@
+{
+  "realm": "react-test",
+  "auth-server-url": "http://localhost:8888/auth/",
+  "ssl-required": "external",
+  "resource": "react-auth",
+  "public-client": true,
+  "confidential-port": 0
+}

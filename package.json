@@ -38,5 +38,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@emotion/react": "^11.8.2",
+    "keycloakify": "^4.7.0",
+    "powerhooks": "^0.14.0",
+    "tss-react": "^3.6.0"
   }
 }
